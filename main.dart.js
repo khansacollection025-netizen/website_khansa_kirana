@@ -28346,7 +28346,7 @@ this.b=b},
 axv:function axv(){},
 axw:function axw(){},
 axy:function axy(a){this.a=a},
-a56(a,b){var s,r,q,p,o="http://127.0.0.1:8000",n=B.c.jd(o,"/")?B.c.a4(o,0,20):o,m=A.fv(n+(B.c.bE(a,"/")?a:"/"+a),0,null)
+a56(a,b){var s,r,q,p,o="https://api-khansakirana.widiyanto.web.id",n=B.c.jd(o,"/")?B.c.a4(o,0,40):o,m=A.fv(n+(B.c.bE(a,"/")?a:"/"+a),0,null)
 if(b==null||b.a===0)return m
 s=t.N
 r=A.A(s,s)
